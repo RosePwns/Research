@@ -1,7 +1,7 @@
 # Breaking The Rules
 
 ## The Conversation
-This is a conversation between me and ChatGPT regarding information that it did no poccess before I provided resources. It used links I provided to learn new information. It then denys having done so, and refuses to access links anymore.
+This is a conversation between me and ChatGPT regarding information that it did not possess before I provided resources. It used links I provided to learn new information. It then denys having done so, and refuses to access links anymore.
 
 ### User
 ```Tell me about the disappearance of Regan Ambrose. Cite your sources.```
